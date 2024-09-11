@@ -13,9 +13,7 @@ body {
     --card-border-color: #f34273;
 
     font-size: 1.6rem;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
-        'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
-        'Helvetica Neue', sans-serif;
+    font-family: 'Roboto', 'Segoe UI', Arial, Helvetica, sans-serif;
     background-color: var(--background-color);
     color: var(--text-color);
     display: flex;

@@ -5,5 +5,3 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "jekyll", "~> 4.3"
-
-gem 'jekyll-inline-svg', '~> 1.1', '>= 1.1.5'

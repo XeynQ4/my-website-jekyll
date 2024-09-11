@@ -4,4 +4,3 @@ baseurl: ''
 url: 'https://xeyn.me'
 
 plugins:
-    - jekyll-inline-svg

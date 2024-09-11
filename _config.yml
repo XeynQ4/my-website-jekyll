@@ -2,3 +2,6 @@ title: Xeyn's website
 email: xeyn@xeyn.me
 baseurl: ''
 url: 'https://xeyn.me'
+
+plugins:
+    - jekyll-inline-svg

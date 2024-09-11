@@ -150,3 +150,8 @@ button {
 .nav-button:hover {
     background-color: var(--button-hover-color);
 }
+
+.icon {
+    height: 1em;
+    fill: currentColor;
+}
